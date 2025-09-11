@@ -39,5 +39,4 @@ Sou apaixonado por **Tecnologia da Informação**, com foco em Suporte Técnico,
 
 *Busco sempre aplicar meus conhecimentos técnicos, aprender novas tecnologias e contribuir com soluções eficientes!*
 
-<!-- Adicione seus links de redes sociais abaixo, se desejar -->
-<!-- [LinkedIn](https://www.linkedin.com/in/seu-usuario) | [Instagram](https://instagram.com/seu-usuario) -->
+
